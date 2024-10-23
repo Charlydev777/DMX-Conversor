@@ -7,6 +7,11 @@ Es todo :)
 
 PD: Se necesita conexion a internet para realizar la consulta.
 
+## Instalación
+- git clone  https://github.com/Charlydev777/DMX-Conversor
+- cd DMX-Conversor
+- bash DolarMX.sh
+
 ## Requerimientos
 - `jq` instalado en tu s.o. linux
 - `bc` instalado en tu s.o. linux
